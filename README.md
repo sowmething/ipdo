@@ -6,7 +6,7 @@ It simply releases and renews the system IP address using native Windows network
 
 ---
 
-## Features
+## ✨ Features
 
 *  Fast IP release & renew (`ipconfig /release` → `ipconfig /renew`)
 *  Windows-only (native behavior)
